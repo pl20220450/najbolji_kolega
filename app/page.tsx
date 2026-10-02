@@ -102,7 +102,7 @@ export default function Page() {
     return (
       <div style={pageStyle}>
         <div style={containerStyle}>
-          <img src="/logo.jpeg" alt="Logo Katedre" style={{ width: '100%', maxWidth: '280px', margin: '0 auto 30px', display: 'block' }} />
+          <img src="/logo1.jpeg" alt="Logo Katedre" style={{ width: '100%', maxWidth: '280px', margin: '0 auto 30px', display: 'block' }} />
           <h1 style={{ color: '#4CB4A3', textAlign: 'center', marginBottom: '20px', fontSize: '26px' }}>✅ Tvoj glas je uspešno zabeležen!</h1>
           <p style={{ textAlign: 'center', color: '#071B40', fontSize: '18px', lineHeight: '1.5' }}>
             Hvala ti što si učestvovao. Rezultati će biti objavljeni nakon što se glasanje zvanično završi.
@@ -116,12 +116,12 @@ export default function Page() {
     return (
       <div style={pageStyle}>
         <div style={containerStyle}>
-          <img src="/logo.jpeg" alt="Logo Katedre" style={{ width: '100%', maxWidth: '280px', margin: '0 auto 30px', display: 'block' }} />
+          <img src="/logo1.jpeg" alt="Logo Katedre" style={{ width: '100%', maxWidth: '280px', margin: '0 auto 30px', display: 'block' }} />
           <h1 style={{ color: '#0E4E8C', textAlign: 'center', marginBottom: '25px', fontSize: '28px' }}>Izbor za najboljeg kolegu</h1>
           <div style={{ color: '#071B40', lineHeight: '1.7', marginBottom: '35px', fontSize: '16px' }}>
             <p style={{ marginBottom: '15px' }}>Dragi studenti,</p>
             <p style={{ marginBottom: '15px' }}>
-              Pred vama je anketa kojom ćete odlučiti koga iz generacije <b>2022/2023</b> smatrate najboljim kolegom ili koleginicom. Ova titula ne meri prosek ni uspeh, već nečiju plemenitost tokom studija. 
+              Pred vama je anketa kojom ćete odlučiti koga iz <b>generacije 2022/2023</b> smatrate najboljim kolegom ili koleginicom. Ova titula ne meri prosek ni uspeh, već nečiju plemenitost tokom studija.  
             </p>
             <p style={{ marginBottom: '15px' }}>
               Dajte svoj glas na osnovu toga ko je od vaših kolega uvek bio tu da pomogne u teškim trenucima, da podeli beleške, da razjasni gradivo onima koji ga nisu razumeli i, najvažnije, ko je bio prijatelj i svojim ponašanjem olakšao i ulepšao put kroz studije. 
@@ -129,6 +129,8 @@ export default function Page() {
             <p style={{ marginBottom: '15px' }}>
               Da biste glasali, izaberite studenta iz padajuće liste i kliknite na dugme „Glasaj“. 
             </p>
+            <p style={{ marginBottom: '15px' }}>
+              Nagradu će dodeliti zajednica studenata modula projektni menadžment – PM Student Hub na događaju PM Generations koji se organizuje uz podršku Katedre za menadžment i upravljanje projektima. Događaj će se održati na Fakultetu organizacionih nauka 21. oktobra 2026. godine. Uskoro više informacija o tome.            </p>
             <p style={{ fontStyle: 'italic', color: '#0E4E8C', fontWeight: '500' }}>
               Kao što kaže Mali princ, samo se srcem dobro vidi, pa neka vas ono vodi kroz ovaj izbor.
             </p>
@@ -144,7 +146,7 @@ export default function Page() {
   return (
     <div style={pageStyle}>
       <div style={containerStyle}>
-        <img src="/logo.jpeg" alt="Logo Katedre" style={{ width: '100%', maxWidth: '280px', margin: '0 auto 30px', display: 'block' }} />
+        <img src="/logo1.jpeg" alt="Logo Katedre" style={{ width: '100%', maxWidth: '280px', margin: '0 auto 30px', display: 'block' }} />
         <h1 style={{ color: '#0E4E8C', textAlign: 'center', marginBottom: '10px', fontSize: '28px' }}>Izbor za najboljeg kolegu</h1>
         <p style={{ textAlign: 'center', color: '#5A4A86', marginBottom: '25px' }}>Pronađi kolegu i ostavi svoj glas.</p>
 
