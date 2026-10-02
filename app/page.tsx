@@ -105,7 +105,7 @@ export default function Page() {
           <img src="/logo1.jpeg" alt="Logo Katedre" style={{ width: '100%', maxWidth: '280px', margin: '0 auto 30px', display: 'block' }} />
           <h1 style={{ color: '#4CB4A3', textAlign: 'center', marginBottom: '20px', fontSize: '26px' }}>✅ Tvoj glas je uspešno zabeležen!</h1>
           <p style={{ textAlign: 'center', color: '#071B40', fontSize: '18px', lineHeight: '1.5' }}>
-            Hvala ti što si učestvovao. Rezultati će biti objavljeni nakon što se glasanje zvanično završi.
+            Hvala na učešću! Rezultati će biti objavljeni nakon što se glasanje zvanično završi.
           </p>
         </div>
       </div>
