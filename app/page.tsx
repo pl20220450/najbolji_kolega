@@ -6,7 +6,7 @@ import React, { useState, useEffect } from 'react';
 const STUDENTS = [
   "Anja Ajder (2022/0766)", "Vasilije Apostoloski (2022/0679)", "Teodora Adžić (2022/0753)", "Nina Adžić (2022/0954)",
   "Marko Babić (2022/0663)", "Isidora Babić (2022/0938)", "Vanja Bačvanski (2022/0767)", "Tamara Beatović (2022/0650)",
-  "Isidora Belić (2022/0898)", "Jana Belčević (2022/0794)", "Ivana Biberdžić (2022/0797)", "Maša Blažić (2022/0620)",
+  "Isidora Belić (2022/0898)", "Jana Belčević (2022/0794)", "Ivana Biberdžić (2022/0797)", "Ana Budišin (2022/0932)","Maša Blažić (2022/0620)",
   "Ana Bošković (2022/0754)", "Katarina Bošković (2022/0768)", "Sara Bugarinović (2022/0840)", "Bojana Bulatović (2022/0881)",
   "Aleksandra Vasiljević (2022/0770)", "Dijana Vasić (2022/0744)", "Elena Vasić (2022/0934)", "Mila Veljković (2022/0871)",
   "Dijana Vićentijević (2022/0646)", "Anja Vujaković (2022/0612)", "Milica Vukašinović (2022/0715)", "Lazar Vučetić (2022/0662)",
